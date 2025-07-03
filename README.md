@@ -11,6 +11,7 @@ https://drive.google.com/file/d/1GKKWSajqWuEsIHr8NfLXpTlLwtTazMcy/view?usp=drive
 
 A data visualization dashboard designed to analyze electric vehicle (EV) charging behavior, battery performance, and range statistics using interactive charts and maps. This tool enables users to gain deep insights into EV usage patterns, infrastructure efficiency, and driving range optimization.
 
+
 🚀 Features
 - 📊 Interactive Dashboards built with Tableau for EV data analysis
 - 🌍 Geographic Analysis of charging stations and travel patterns
@@ -18,6 +19,7 @@ A data visualization dashboard designed to analyze electric vehicle (EV) chargin
 - 🔍 User Segmentation by vehicle model, battery type, and trip type
 - 📂 Easy-to-use web interface for seamless data exploration
 
-  🛠️ Tech Stack
+
+🛠️ Tech Stack
 - Frontend: HTML, CSS, JavaScript
 - Visualization: Tableau Public
