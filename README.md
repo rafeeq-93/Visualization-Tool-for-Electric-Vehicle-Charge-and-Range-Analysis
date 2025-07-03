@@ -8,6 +8,9 @@ https://public.tableau.com/views/ProjectVisualizations_17513035662220/Story1?:la
 Video Demo Link:
 https://drive.google.com/file/d/1GKKWSajqWuEsIHr8NfLXpTlLwtTazMcy/view?usp=drive_link
 
+Website Link:
+https://ev-visualization-smartbridge.netlify.app/
+
 
 A data visualization dashboard designed to analyze electric vehicle (EV) charging behavior, battery performance, and range statistics using interactive charts and maps. This tool enables users to gain deep insights into EV usage patterns, infrastructure efficiency, and driving range optimization.
 
